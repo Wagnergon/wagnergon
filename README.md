@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Wagner 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnergon/)
 
-📍: Currently based in Computer Science at University Of Nevada Las Vegas, NV </br>
+📍: Currently based in Las Vegas, NV </br>
 🥊: I have a passion for boxing</br>
 💻: Im currently working on a Ruby on Rails application called "SeatView"</br>
 🧠: Im learning to make Full Stack applications using RoR</br>
@@ -10,6 +10,7 @@
 📫: How to reach me: <a href="mailto:wagnergon52@gmail.com">wagnergon52@gmail.com</a>
 
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnergon&show_icons=true&theme=transparent)
 
 ## Languages and Tools:
 <div>
