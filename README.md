@@ -17,7 +17,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnergon&show_icons=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=wagnergon)](https://github.com/wagnergon/github-profile-trophy)
+
 
 
 
