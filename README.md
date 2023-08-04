@@ -11,6 +11,8 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnergon&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnergon)](https://github.com/wagnergon/github-readme-stats)
+
 
 ## Languages and Tools:
 <div>
@@ -36,7 +38,6 @@
 
 ---
 
-## 📕 Latest Blog Posts
 
 <!--
 **Wagnergon/wagnergon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
