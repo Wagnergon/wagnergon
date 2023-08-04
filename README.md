@@ -6,6 +6,7 @@
 🥊: I have a passion for boxing</br>
 💻: Im currently working on a Ruby on Rails application called "SeatView"
 🧠: Im learning to make Full Stack applications using RoR
+🧍‍♂️: Fun Fact: I served 5 years in the US Army with one deployment to Afghanistan
 📫: How to reach me: <a href="mailto:wagnergon52@gmail.com">wagnergon52@gmail.com</a>
 
 
