@@ -25,13 +25,7 @@
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apple_Computer_Logo_rainbow.svg/2048px-Apple_Computer_Logo_rainbow.svg.png" alt="macOS Logo">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
-</div>
+  <img width=50px src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">&nbsp;
 
 </br>
 
