@@ -10,15 +10,14 @@
 📫: How to reach me: <a href="mailto:wagnergon52@gmail.com">wagnergon52@gmail.com</a>
 
 
-<a href="https://github.com/wagnergon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wagnergon&show_icons=true" />
-</a>
-<a href="https://github.com/wagnergon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnergon&show_icons=true&layout=compact&langs_count=8&card_width=320" />
-</a>
-</br>
-
-
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/wagnergon">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wagnergon&show_icons=true" />
+  </a>
+  <a href="https://github.com/wagnergon">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnergon&show_icons=true&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 
 ## Languages and Tools:
