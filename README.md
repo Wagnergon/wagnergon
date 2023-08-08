@@ -10,14 +10,40 @@
 📫: How to reach me: <a href="mailto:wagnergon52@gmail.com">wagnergon52@gmail.com</a>
 
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/wagnergon">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wagnergon&show_icons=true" />
-  </a>
-  <a href="https://github.com/wagnergon">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnergon&show_icons=true&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-color: #f2f2f2; /* Set your desired background color */
+  }
+  .github-stats-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px; /* Add margin for spacing */
+    background-color: #fff; /* Set a light background color */
+    padding: 20px; /* Add padding for spacing */
+    border-radius: 10px; /* Add rounded corners */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  .github-stats-container img {
+    height: 200px;
+    align-self: center;
+  }
+</style>
+</head>
+<body>
+  <div class="github-stats-container">
+    <a href="https://github.com/wagnergon">
+      <img src="https://github-readme-stats.vercel.app/api?username=wagnergon&show_icons=true" />
+    </a>
+    <a href="https://github.com/wagnergon">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnergon&show_icons=true&layout=compact&langs_count=8&card_width=320" />
+    </a>
+  </div>
+</body>
+</html>
+
 
 
 ## Languages and Tools:
